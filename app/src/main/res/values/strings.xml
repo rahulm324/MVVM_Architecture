@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM Architecture</string>
+    <string name="title">Title</string>
+    <string name="createNote">Create Note</string>
+    <string name="addNote">Add Note</string>
+    <string name="update">Update</string>
+</resources>
